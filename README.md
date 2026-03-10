@@ -38,7 +38,7 @@ I am a solution-oriented **Information Technology student** with a passion for t
   <a href="https://linkedin.com/in/abdullah-saleh-00056b326">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/aboud_asm">
+  <a href="https://t.me/asm_aboud">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:abdullahasaleh.216@gmail.com">
