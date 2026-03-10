@@ -26,15 +26,30 @@ I am a solution-oriented **Information Technology student** with a passion for t
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-saleh-s&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Saleh-s&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-saleh-s&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-saleh-s&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
 
 ---
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/abdullah-saleh-00056b326) 
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/aboud_asm)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:abdullahasaleh.216@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/abdullah-saleh-00056b326">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/aboud_asm">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:abdullahasaleh.216@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-*“Coding is not just about writing lines of code; it's about solving real-world problems.”*
+
+<p align="center">
+    <i>*“Coding is not just about writing lines of code; it's about solving real-world problems.”*</i>
+</p>
+
+---
