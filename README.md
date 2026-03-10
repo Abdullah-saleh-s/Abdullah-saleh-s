@@ -1,11 +1,11 @@
-# Hi there, I'm Abdullah! 👋
+# Hi there, I'm Abdullah! 
 ### Full-Stack Developer | IT Engineer at Taiz University
 
 I am a solution-oriented **Information Technology student** with a passion for transforming complex ideas into scalable digital products. I specialize in building high-performance applications that bridge the gap between robust backend logic and intuitive user experiences.
 
 ---
 
-### 🎯 Key Expertise
+###  Key Expertise
 * 🏗️ **System Architecture:** Expert in System Design & Analysis (UML, Database Schema).
 * 📱 **Cross-Platform Dev:** Building high-performance Mobile Apps using **Flutter**.
 * 🌐 **Modern Web:** Developing scalable Full-Stack Web Apps with **Next.js and PHP**.
@@ -13,7 +13,7 @@ I am a solution-oriented **Information Technology student** with a passion for t
  
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -25,7 +25,7 @@ I am a solution-oriented **Information Technology student** with a passion for t
 
 ---
 
-### 📫 Connect with me
+###  Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/abdullah-saleh-00056b326">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
