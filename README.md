@@ -53,10 +53,6 @@ I am a solution-oriented **Information Technology student** with a passion for t
 
 <br />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Osama-Alathwari&&style=flat-square" align="center" />
-</div>  
-
 ---
 
 <p align="center">
