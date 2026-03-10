@@ -25,14 +25,6 @@ I am a solution-oriented **Information Technology student** with a passion for t
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-saleh-s&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-saleh-s&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/abdullah-saleh-00056b326">
