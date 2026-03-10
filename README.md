@@ -51,5 +51,3 @@ I am a solution-oriented **Information Technology student** with a passion for t
 <p align="center">
     <i>*“Coding is not just about writing lines of code; it's about solving real-world problems.”*</i>
 </p>
-
-[HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) !
