@@ -42,13 +42,13 @@ I am a solution-oriented **Information Technology student** with a passion for t
 ### Github Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-saleh-s&show_icons=true&count_private=true&hide_border=true&theme=github_dark"/>
+  <img src="https://abdullah-saleh-s.vercel.app/api?username=Abdullah-saleh-s&show_icons=true&count_private=true&hide_border=true&theme=github_dark"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah-saleh-s&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" alt="Abdullah Saleh s" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-saleh-s&theme=gruvbox&hide_border=true" alt="Abdullah Saleh s" />
+  <img src="https://abdullah-saleh-s.vercel.app/?user=Abdullah-saleh-s&theme=gruvbox&hide_border=true" alt="Abdullah Saleh s" />
 </p>
 
 <br />
